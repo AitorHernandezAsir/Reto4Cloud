@@ -3,9 +3,6 @@
 **ASIR · Cloud · Reto 4 — Grupo 2 (g2)**
 
 [![Docker Hub](https://img.shields.io/badge/Docker%20Hub-aithervill%2Fweb--cloud--reto4-2496ED?logo=docker&logoColor=white)](https://hub.docker.com/r/aithervill/web-cloud-reto4)
-![Terraform](https://img.shields.io/badge/IaC-Terraform-7B42BC?logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/Cloud-AWS%20Learner%20Lab-FF9900?logo=amazonaws&logoColor=white)
-![Docker Swarm](https://img.shields.io/badge/Orquestador-Docker%20Swarm-2496ED?logo=docker&logoColor=white)
 
 ---
 
